@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/KenCuevas/PurchasingSystem/static/css/main.0254462e.chunk.css",
+    "main.js": "/KenCuevas/PurchasingSystem/static/js/main.6f4dad0b.chunk.js",
+    "main.js.map": "/KenCuevas/PurchasingSystem/static/js/main.6f4dad0b.chunk.js.map",
+    "runtime-main.js": "/KenCuevas/PurchasingSystem/static/js/runtime-main.a71f07b3.js",
+    "runtime-main.js.map": "/KenCuevas/PurchasingSystem/static/js/runtime-main.a71f07b3.js.map",
+    "static/js/2.24ffc080.chunk.js": "/KenCuevas/PurchasingSystem/static/js/2.24ffc080.chunk.js",
+    "static/js/2.24ffc080.chunk.js.map": "/KenCuevas/PurchasingSystem/static/js/2.24ffc080.chunk.js.map",
+    "static/js/3.eb480fed.chunk.js": "/KenCuevas/PurchasingSystem/static/js/3.eb480fed.chunk.js",
+    "static/js/3.eb480fed.chunk.js.map": "/KenCuevas/PurchasingSystem/static/js/3.eb480fed.chunk.js.map",
+    "index.html": "/KenCuevas/PurchasingSystem/index.html",
+    "static/css/main.0254462e.chunk.css.map": "/KenCuevas/PurchasingSystem/static/css/main.0254462e.chunk.css.map",
+    "static/js/2.24ffc080.chunk.js.LICENSE.txt": "/KenCuevas/PurchasingSystem/static/js/2.24ffc080.chunk.js.LICENSE.txt",
+    "static/media/Provedores.png": "/KenCuevas/PurchasingSystem/static/media/Provedores.0494f601.png",
+    "static/media/article.png": "/KenCuevas/PurchasingSystem/static/media/article.3c9a99e3.png",
+    "static/media/departamento.png": "/KenCuevas/PurchasingSystem/static/media/departamento.fa10ffea.png",
+    "static/media/edit.png": "/KenCuevas/PurchasingSystem/static/media/edit.283e7726.png",
+    "static/media/logo.png": "/KenCuevas/PurchasingSystem/static/media/logo.c2c49159.png",
+    "static/media/measure.png": "/KenCuevas/PurchasingSystem/static/media/measure.b909e111.png",
+    "static/media/purchase.png": "/KenCuevas/PurchasingSystem/static/media/purchase.129873b1.png",
+    "static/media/remove.png": "/KenCuevas/PurchasingSystem/static/media/remove.3c662b75.png",
+    "static/media/user.png": "/KenCuevas/PurchasingSystem/static/media/user.33e7df09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71f07b3.js",
+    "static/js/2.24ffc080.chunk.js",
+    "static/css/main.0254462e.chunk.css",
+    "static/js/main.6f4dad0b.chunk.js"
+  ]
+}
